@@ -1,0 +1,5 @@
+# Keep personal logs and generated work out of the public repo
+memory/MEMORY.md
+outputs/
+*.local.md
+.DS_Store
